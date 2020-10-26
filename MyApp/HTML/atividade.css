@@ -1,0 +1,226 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+nav{ 
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-width: 8vh;
+  background-color:black;
+  height: 100px;
+}
+
+.nav-links{
+  display: flex;
+  width: 50%;
+  padding-right: 80px;
+  justify-content: space-around;
+}
+
+.nav-links li {
+  list-style: none;
+}
+
+.nav-links a {
+  color: white;
+  text-decoration: none;
+  letter-spacing: 2px;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.logo{
+  color: white;
+  text-transform: uppercase;
+  font-size: 30px;
+  letter-spacing: 2px;
+  padding-top: 10px;
+}
+
+.footer{
+  background-color: black;
+  color: white;
+  padding: 27px 0;
+  text-align: center;
+}
+
+.footer-pro{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+/* colunas grid 960px */
+
+.linha {
+    width: 1080px;
+    margin: 0 auto;
+    overflow: auto;
+    padding: 5px 0;
+  }
+  .coluna {
+    padding: 0 10px;
+    float: left;
+  }
+  .col1 {
+    width: 90px;
+  }
+  .col2 {
+    width: 180px;
+  }
+  .col3 {
+    width: 270px;
+  }
+  .col4 {
+    width: 360px;
+  }
+  .col5 {
+    width: 450px;
+  }
+  .col6 {
+    width: 540px;
+  }
+  .col7 {
+    width: 630px;
+  }
+  .col8 {
+    width: 720px;
+  }
+  .col9 {
+    width: 810px;
+  }
+  .col10 {
+    width: 900px;
+  }
+  .col11 {
+    width: 990px;
+  }
+  .col12 {
+    width: 1080px;
+  }
+  
+  /* fim colunas */
+
+.sub-titulo h5 {
+  font-size: 30px;
+  letter-spacing: 2px;
+}
+
+.sub-titulo {
+  font-size: 30px;
+  letter-spacing: 2px;
+  text-align: center;
+}
+
+a.botão,
+input.botão {
+  border-radius: 4px;
+  background-color: blue;
+  color: black;
+  padding: 5px 10px;
+  color: white;
+  cursor: pointer;
+  margin: 5px 0;
+  display: inline-block;
+  border: none;
+  text-align: right;
+}
+
+a.botão:hover,
+input.botão:hover{
+  background-color: blue;
+  text-decoration: none;
+}
+
+img{
+  width: 100%;
+  height: auto;
+}
+
+.form{
+  list-style: none;
+  top: 120px;
+  background-color: brown;
+  width: 350px;
+  height: 320px;
+  border-radius: 3px;
+  color: white;
+  position: absolute;
+  margin: 100px;
+}
+.form li{
+  padding-left: 68px;
+}
+
+.sidebar-l{
+  float: left;
+  align-items: initial;
+  padding-top: 100px;
+}
+
+.sidebar-R{
+  float: right;
+  text-align: center;
+  padding-top: 100px;
+  padding-left: 100px;
+}
+
+.side-R {
+  list-style: none;
+  padding-top:10px;
+  padding-bottom: 10px;
+  color: white;
+  background-color: black;
+  border-radius: 5px;
+}
+
+.nomes {
+  font-size:20px;
+}
+
+.contato-c{
+  background-color: gray;
+}
+
+.modelos {
+  text-align: center;
+}
+
+.historia {
+  text-align: center;
+}
+
+.caça {
+  width: 600px;
+  height: auto;
+  margin: 0;
+  padding: 0;
+}
+
+.caça-B {
+  padding-top: 60px;
+  width: 600px;
+  height: auto;
+}
+
+.texto-B {
+  margin-top: 55px;
+}
+
+.segunda-guerra{
+  margin-top: 60px;
+}
+
+.img-B {
+  margin-top: 80px;
+}
+
+.img-c {
+  padding-right: 10px;
+  height: auto;
+  width: 25%;
+}
+

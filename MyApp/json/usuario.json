@@ -1,0 +1,9 @@
+{ 
+    "nome": "NOME USUARIO",
+    "sobrenome": "SOBRENOME USUARIO",
+    "idade": "IDADE USUARIO",
+    "email": "EMAIL USUARIO",
+    "TELEFONE": "USUARIO",
+    "tipo de cadastro": "LEITOR",
+    "genero": ["masculino", "feminino", "outro"]
+} 

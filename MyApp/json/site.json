@@ -1,0 +1,17 @@
+{
+    "home": "HOME DO SITE",
+    "modelos":{
+        "primeira guerra": "MODELOS PRIMEIRA GUERRA",
+        "segunda guerra": "MODELOS SEGUNDA GUERRA",
+        "tempos atuais": "MODELOS TEMPOS ATUAIS"
+    },
+    "historia":{
+        "primeira guerra": "HISTORIA PRIMEIRA GUERRA",
+        "entreguerras": "HISTORIA ENTRE GUERRAS",
+        "segunda guerra": "HISTORIA SEGUNDA GUERRA"
+    },
+    "contato": {
+        "email de contato": "EMAIL DE CONTATO",
+        "informações do usuario": "INFORMAÇÕES DO USUARIO"
+    }
+}
